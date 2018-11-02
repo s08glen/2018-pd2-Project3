@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/google.png</file>
+	<file>res/bullet.png</file>
+	<file>res/windows.png</file>
+	<file>res/windows 2.png</file>
+	<file>res/windows2.png</file>
+	<file>res/windows3.png</file>
+	<file>res/enemybullet.png</file>
+	<file>res/gitlab.png</file>
+    </qresource>
+</RCC>
